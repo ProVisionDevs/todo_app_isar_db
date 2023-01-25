@@ -1,8 +1,4 @@
-# todo_app_isar_db
-
-A Todo app with Isar database.
-
-## Getting Started
+# Todo App with Isar DataBase
 
 This project is a starting point for a todo Flutter application.
 
