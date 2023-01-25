@@ -1,10 +1,10 @@
 # todo_app_isar_db
 
-A new Flutter project.
+A Todo app with Isar database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a todo Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
